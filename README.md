@@ -1,7 +1,8 @@
 # A Guide for Future Learners on Creative Computing:
+<kbd> Words in bold have definitions at the bottom of the page
 ### Your week ahead: 
 
-This week, you will learn about physical computing, more specifically, circuit design - understanding how to light up an LED using an **Arduino Box**. Through a Read Me file on the **GitHub** platform, you will need to code your response to the brief. This could be anything from a learning log on your circuit design experience to explaining your thoughts on physical computing. For Friday, you will simply need to submit the link to your **Read Me File** onto Padlet. 
+This week, you will learn about physical computing, more specifically, circuit design - understanding how to light up an LED using an **Arduino Box**. Through a Read Me file on the **GitHub** platform, you will need to code your response to the brief. This could be anything from a learning log on your circuit design experience to explaining your thoughts on physical computing. For Friday, you will simply need to submit the link to your **Read Me File** onto Padlet.
 
 ### My experience:
 
@@ -89,6 +90,6 @@ UAL. 2021. BSc (Hons) Creative Computing. [online] Available at:
 	<https://www.arts.ac.uk/subjects/creative-computing/undergraduate/
 	bsc-hons-creative-computing> [Accessed 10 November 2021].
 
-
+<kbd> Thank you! 
 
 
