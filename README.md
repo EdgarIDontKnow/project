@@ -9,9 +9,8 @@ Creative Computing is an area I was not familiar with and not very interested in
 
 We then moved on to practical physical computing where we were given an Arduino kit to light up an LED. I had a YouTube tutorial and followed all steps but my LED still wouldn’t turn on. I then moved on to TinkerCad, where there, I was able to make it work. So, do not worry, sometimes you may be stuck and not understand why but it’s part of this challenging project. As to what to write for your read me file, make sure you are interested in what you are writing, otherwise, you will likely procrastinate and complete it the day before. 
 
-### What I would do differently:
-Guide on what future learners should know 
-- Do not Give up even if it doesn’t work - reflects coding (as the tutor said) - and focus if you’re not interested
+### My tips:
+- Do not give up even if it doesn’t work - reflects coding (as the tutor said) - and focus if you’re not interested
 - Overcome fear about digital things
 - Start by doing physical computing and then can move onto autocad if it’s easier  
 - Comforting music to stimulate your mind 
