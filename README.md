@@ -11,10 +11,10 @@ This week, you will learn about physical computing, more specifically, circuit d
 We then moved on to practical **Physical Computing** where we were given an Arduino kit to light up an LED. I had a YouTube tutorial and followed all steps but my LED still wouldn’t turn on. I then moved on to **TinkerCad**, where there, I was able to make it work. So, do not worry, sometimes you may be stuck and not understand why but it’s part of this challenging project. As to what to write for your read me file, make sure you are interested in what you are writing, otherwise, you will likely procrastinate and complete it the day before. 
 
 ### My tips:
-- Do not give up even if it doesn’t work - reflects coding (as the tutor said) - and focus if you’re not interested
-- Overcome fear about digital things
-- Start by doing physical computing and then can move onto autocad if it’s easier  
-- Comforting music to stimulate your mind 
+- Do not give up even if the circuit doesn’t work 
+- Start by doing physical computing and then can move onto tinkercad if it’s easier 
+- Comforting music to stimulate your mind (especially if you are not very interested in this topic)
+- Understand how physical computing works - watch videos - then apply that information to the circuit
 
 ### How to ‘RGB LED Color Mixing’: 
 
