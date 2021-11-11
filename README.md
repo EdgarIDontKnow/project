@@ -30,10 +30,10 @@ https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 
 ### LED’s (Breadboard Small): 
 
-- Red - 9D to 10D
-- Yellow - 12D to 13D
-- Green - 15D to 16D
-
+- 9D to 10D (Red)
+- 12D to 13D (Yellow)
+- 15D to 16D (Green)
+	
 ### Resistors (Breadboard Small):
 
 - Negative (-) to 9B (Red)
@@ -48,10 +48,10 @@ https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 
 ### Long Jumper Wire (Breadboard Small):
 
-- 5V to + (near 30) (red)
-- GND to - (near 30) (black)
-- (+) to +  (from left to right side) (red)
-- (-) to - (from left to right side) (black)
+- 5V to + (near 30) (Red)
+- GND to - (near 30) (Black)
+- (+) to +  (from left to right side) (Red)
+- (-) to - (from left to right side) (Black)
 
 Connect the cable from the Arduino Uno R3 to your laptop so that it has the power to light up the LED. Then, simply turn on the switch button, and it should light it up!  
 
